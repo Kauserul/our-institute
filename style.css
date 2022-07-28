@@ -5,6 +5,14 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+section{
+    margin-bottom: 150px;
+}
+
+.header-slider{
+    margin-bottom: 150px;
+}
+
 .header-title {
     font-size: 75px;
 }
@@ -88,4 +96,46 @@ body{
 
 .footer-des{
     font-size: 14px;
+}
+
+.header-pic img{
+    filter: blur(3px);
+    filter: brightness(50%);
+}
+
+
+
+@media screen and (max-width:768px) {
+    .trusted-company{
+        display: none;
+    }
+
+    .header-title{
+        font-size: 25px;
+    }
+
+    .header-pera{
+        font-size: 12px;
+    }
+    
+}
+
+
+@media screen and (max-width:576px) {
+    .single-course{
+        flex-direction: column;
+    }
+
+    .single-course .course-banner img{
+        width: 100%;
+    }
+
+    .header-title{
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .header-pera{
+        font-size: 9px;
+    }
 }
