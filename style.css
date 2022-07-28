@@ -65,3 +65,23 @@ body{
 .btn-view{
     margin-left: 46%;
 }
+
+.feedback-pera{
+    font-size: 14px;
+}
+
+.fa-star, .fa-star-half{
+    color: gold;
+}
+
+.feedback-des{
+    font-size: 13px;
+}
+
+.student-name {
+    font-size: 15px;
+}
+
+.student-cetagory {
+    font-size: 13px;
+}
