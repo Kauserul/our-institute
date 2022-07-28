@@ -24,3 +24,16 @@ body{
 .btn-course{
     margin-left: 40%;
 }
+
+
+.elearning-institute{
+    background-color: #F4FAFD;
+}
+
+.elearning-title{
+    font-size: 45px;
+}
+
+.elearning-des {
+    font-size: 14px;
+}
