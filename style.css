@@ -49,3 +49,19 @@ body{
 .register-now{
     height: 200px;
 }
+
+.student-work{
+    font-size: 14px;
+}
+
+.students-des{
+    font-size: 14px;
+}
+
+.view-btn{
+    margin: auto;
+}
+
+.btn-view{
+    margin-left: 46%;
+}
